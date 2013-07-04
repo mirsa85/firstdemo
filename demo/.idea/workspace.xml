@@ -4,7 +4,7 @@
     <list default="true" id="9db7bf83-7957-47bf-b72e-f7789e8c17a0" name="Default" comment="" />
     <ignored path="demo.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/.gitignore" changelist="9db7bf83-7957-47bf-b72e-f7789e8c17a0" time="1372945691731" ignored="false" />
+    <file path="/.gitignore" changelist="9db7bf83-7957-47bf-b72e-f7789e8c17a0" time="1372946222664" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,28 +24,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="say_controller.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/controllers/say_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="23" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="5" selection-start="435" selection-end="435" vertical-scroll-proportion="0.3653295">
+            <state line="14" column="2" selection-start="422" selection-end="422" vertical-scroll-proportion="0.3409742">
               <folding />
             </state>
           </provider>
@@ -375,13 +357,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/say_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="23" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -389,9 +364,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/say_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="23" selection-start="109" selection-end="109" vertical-scroll-proportion="0.19484241">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="5" selection-start="435" selection-end="435" vertical-scroll-proportion="0.3653295">
+        <state line="14" column="2" selection-start="422" selection-end="422" vertical-scroll-proportion="0.3409742">
           <folding />
         </state>
       </provider>
